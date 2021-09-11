@@ -1,3 +1,1 @@
-Hello, Hexlet!
-git pull --rebase 
-ok
+Hello, Hexlet! How are you?
